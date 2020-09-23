@@ -1,0 +1,29 @@
+p {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+blue{color: blue;
+font-family: Arial;
+}
+pink{color:pink;
+
+}
+orange{color: orange;
+}
+aqua{color: DodgerBlue;
+
+}
+body {background-color: CornflowerBlue;
+}
+image { border: 6px black dottted;
+        padding: 5px;
+}
+
+.image:hover {
+  border: 6px blue solid;
+}
+
+
